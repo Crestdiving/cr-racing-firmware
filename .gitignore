@@ -1,0 +1,3 @@
+# 韌體 .bin 一律以 GitHub Release asset 發佈，絕不 commit 進 git。
+# git 會永遠留著每一個版本，一顆 1.2MB、出 20 版就是 24MB 的歷史，而且刪不掉。
+*.bin
