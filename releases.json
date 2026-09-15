@@ -1,5 +1,20 @@
 {
   "schema_version": 1,
   "product": "cr-racing",
-  "releases": []
+  "releases": [
+    {
+      "device_version": "QSZ003",
+      "display_version": "0.0.3",
+      "published_at": "2026-09-15T05:47:41Z",
+      "source_commit": "925c8cc67bd487d3696ed47a4a176be0bacb888e",
+      "notes": "FOTA 測試",
+      "artifact": {
+        "filename": "QSZ003.bin",
+        "device_ota_filename": "FW.BIN",
+        "bytes": 1289704,
+        "sha256": "d24c4c6e8fc0277e37648cfaa69916a3ca62225dcdb0afa60279965d279ef109",
+        "url": "https://github.com/Crestdiving/cr-racing-firmware/releases/download/QSZ003/QSZ003.bin"
+      }
+    }
+  ]
 }
