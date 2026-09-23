@@ -3,6 +3,20 @@
   "product": "stint-gtm",
   "releases": [
     {
+      "device_version": "GTM002",
+      "display_version": "0.0.2",
+      "published_at": "2026-09-23T06:56:56Z",
+      "source_commit": "0bf0424e17a5ab5126dcca2d068ce95cbdff3d29",
+      "notes": "App 多產品 OTA 完整更新測試",
+      "artifact": {
+        "filename": "GTM002.bin",
+        "device_ota_filename": "EOC5L.BIN",
+        "bytes": 1300408,
+        "sha256": "c459aae1eedcdb5bfd8021b330efb6719a624dbc08410701cd158bfa1238e309",
+        "url": "https://github.com/Crestdiving/cr-racing-firmware/releases/download/GTM002/GTM002.bin"
+      }
+    },
+    {
       "device_version": "GTM001",
       "display_version": "0.0.1",
       "published_at": "2026-09-23T04:10:45Z",
