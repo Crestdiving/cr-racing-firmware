@@ -3,6 +3,21 @@
   "product": "stint-gtm",
   "releases": [
     {
+      "device_version": "GTM003",
+      "display_version": "0.0.3",
+      "published_at": "2026-09-23T09:43:11Z",
+      "source_commit": "c55838df6c4d701545dfdc632755f5c76fc3956e",
+      "channel": "stable",
+      "notes": "藍牙名稱改為 STINT GTM＋MAC 末四碼（第一顆新名稱版本）",
+      "artifact": {
+        "filename": "GTM003.bin",
+        "device_ota_filename": "EOC5L.BIN",
+        "bytes": 1300632,
+        "sha256": "198a9469a3c8b4487d776748d8699795b3f976b3e9aa844b0b994c35af6c55c9",
+        "url": "https://github.com/Crestdiving/cr-racing-firmware/releases/download/GTM003/GTM003.bin"
+      }
+    },
+    {
       "device_version": "GTM002",
       "display_version": "0.0.2",
       "published_at": "2026-09-23T06:56:56Z",
