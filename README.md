@@ -4,7 +4,7 @@
 App 從這裡查有沒有新版、去哪拿、拿到的對不對。
 
 **產物與清單而已 —— 沒有韌體原始碼。** 原始碼在私有的
-`Crestdiving/Claude_EOC05`；這個 repo 只放發佈出去的東西。
+`Brad-Cat/Claude_EOC05`；這個 repo 只放發佈出去的東西。
 
 ---
 
@@ -23,14 +23,14 @@ QSTARZ 的版本只進 `releases.json`，STINT GTM 的只進 `releases-stint-gtm
 清單（每次檢查更新時取，依錶回報版號的前 3 字元選一份）：
 
 ```
-https://raw.githubusercontent.com/Crestdiving/cr-racing-firmware/main/releases.json
-https://raw.githubusercontent.com/Crestdiving/cr-racing-firmware/main/releases-stint-gtm.json
+https://raw.githubusercontent.com/Brad-Cat/cr-racing-firmware/main/releases.json
+https://raw.githubusercontent.com/Brad-Cat/cr-racing-firmware/main/releases-stint-gtm.json
 ```
 
 產物（下載時取，網址由清單的 `artifact.url` 給，不要自己組）：
 
 ```
-https://github.com/Crestdiving/cr-racing-firmware/releases/download/<版號>/<版號>.bin
+https://github.com/Brad-Cat/cr-racing-firmware/releases/download/<版號>/<版號>.bin
 ```
 
 全部公開、免驗證。與 `cr-racing-speedcam-data` 的 `cameras.bin` 同一個模式。

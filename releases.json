@@ -13,7 +13,7 @@
         "device_ota_filename": "EOC5L.BIN",
         "bytes": 1300636,
         "sha256": "55145046c86c468bc3980aeb6239d3d262bef892f200854177babd3a8a3bd5b9",
-        "url": "https://github.com/Crestdiving/cr-racing-firmware/releases/download/QSZ004/QSZ004.bin"
+        "url": "https://github.com/Brad-Cat/cr-racing-firmware/releases/download/QSZ004/QSZ004.bin"
       }
     }
   ]
